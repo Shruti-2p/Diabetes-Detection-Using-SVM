@@ -1,4 +1,4 @@
-###Diabetes Detection Using SVM###
+#Diabetes Detection Using SVM
 
 This project involves building a machine learning model to detect diabetes in patients using the Pima Indians Diabetes dataset. The core algorithm used is Support Vector Machines (SVM), which is optimized through hyperparameter tuning to ensure high accuracy and reliability.
 
